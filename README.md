@@ -4,12 +4,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=220&section=header&text=Yeswanth%20P&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Infrastructure&descSize=18&descAlignY=58" />
 </div>
+
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/yeswanthsansac">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AWS+Certified+Cloud+Practitioner;Cloud+Support+%7C+Infrastructure+Engineer;Linux+%7C+Networking+%7C+Automation;Building+Resilient+Cloud+Solutions" alt="Typing SVG" />
   </a>
 </div>
+
 <!-- PROFILE VIEWS & BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yeswanthsansac&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
@@ -62,6 +64,7 @@ current_status: "Seeking Cloud Support roles to leverage AWS, Linux, and network
 
 <!-- TECH STACK SECTION -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="28" /> Technical Arsenal
+
 <!-- CLOUD & OS -->
 <details open>
 <summary><b>☁️ Cloud & Operating Systems</b></summary>
@@ -74,6 +77,7 @@ current_status: "Seeking Cloud Support roles to leverage AWS, Linux, and network
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 </details>
+
 <!-- NETWORKING -->
 <details open>
 <summary><b>🌐 Networking</b></summary>
@@ -99,6 +103,8 @@ current_status: "Seeking Cloud Support roles to leverage AWS, Linux, and network
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 </details>
+
+
 <!-- TOOLS & MONITORING -->
 <details open>
 <summary><b>🛠️ Tools & Monitoring</b></summary>
@@ -164,6 +170,7 @@ Corporate Level Django Framework Training (with Distinction)	Postulate	2023-2024
 Python Programming, AI & Machine Learning	Coursera & Microsoft	2025
 Cyber Security Workshops & Next-Gen Data Science & AI	ATAL FDP	--
 
+
 <!-- EDUCATION -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="28" /> Education
 plain
@@ -174,6 +181,7 @@ plain
     ├─────────────────────────────────────────────────────────────┤
     │  🎓 B.Sc. in Information Technology  │  Jul 2021 – Jun 2024 │
     └─────────────────────────────────────────────────────────────┘
+
 
 <!-- ACHIEVEMENTS -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="28" /> Extra-Curricular & Achievements
@@ -200,18 +208,12 @@ plain
   </tr>
 </table>
 
----n
+
+
 <!-- GITHUB STATS -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="28" /> GitHub Analytics
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthsansac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&ring_color=6366f1&card_width=400" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthsansac&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&card_width=340" alt="Top Languages" />
-</div>
-
-<div align="center">
+ 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsansac&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=FF9900&currStreakLabel=6366f1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
