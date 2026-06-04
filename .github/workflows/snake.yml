@@ -9,6 +9,12 @@ on:
     branches:
       - main
 
+# CRITICAL: These permissions are required for the action to work
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -17,20 +23,37 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
 
-      - name: Push to output branch
+      - name: Create output branch if not exists
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            echo "output branch exists"
+          else
+            git checkout --orphan output
+            git reset --hard
+            git commit --allow-empty -m "Initialize output branch"
+            git push origin output
+            git checkout main
+          fi
+
+      - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
