@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <path id="s1" d="M0,-6 L1.5,-2 L6,-2 L2.5,1 L3.5,6 L0,3.5 L-3.5,6 L-2.5,1 L-6,-2 L-1.5,-2 Z" />
+    <path id="s2" d="M0,-8 L0,8 M-8,0 L8,0" stroke-width="2.5" stroke-linecap="round" />
+  </defs>
+
+  <style>
+    .t1 { animation: twinkle 2s ease-in-out infinite alternate; transform-origin: center; }
+    .t2 { animation: twinkle 2.5s ease-in-out infinite alternate; transform-origin: center; }
+    .t3 { animation: twinkle 1.8s ease-in-out infinite alternate; transform-origin: center; }
+    .t4 { animation: twinkle 3s ease-in-out infinite alternate; transform-origin: center; }
+    .t5 { animation: twinkle 2.2s ease-in-out infinite alternate; transform-origin: center; }
+
+    @keyframes twinkle {
+      0% { opacity: 0.15; transform: scale(0.4); }
+      50% { opacity: 1; transform: scale(1.1); }
+      100% { opacity: 0.5; transform: scale(0.7); }
+    }
+  </style>
+
+  <!-- Left cluster -->
+  <use href="#s1" x="50" y="25" fill="#6366f1" filter="url(#glow)" class="t1" />
+  <use href="#s2" x="120" y="25" stroke="#8b5cf6" filter="url(#glow)" class="t2" />
+  <use href="#s1" x="190" y="25" fill="#a78bfa" filter="url(#glow)" class="t3" transform="scale(0.8)" />
+  <use href="#s2" x="260" y="25" stroke="#00CED1" filter="url(#glow)" class="t4" />
+  <use href="#s1" x="330" y="25" fill="#FFD700" filter="url(#glow)" class="t5" transform="scale(0.6)" />
+
+  <!-- Center -->
+  <use href="#s2" x="400" y="25" stroke="#FF69B4" filter="url(#glow)" class="t1" style="animation-delay: 0.5s" />
+  <use href="#s1" x="400" y="25" fill="#FF4500" filter="url(#glow)" class="t3" style="animation-delay: 0.8s" transform="scale(0.9)" />
+
+  <!-- Right cluster -->
+  <use href="#s1" x="470" y="25" fill="#FFD700" filter="url(#glow)" class="t2" transform="scale(0.7)" />
+  <use href="#s2" x="540" y="25" stroke="#6366f1" filter="url(#glow)" class="t4" />
+  <use href="#s1" x="610" y="25" fill="#8b5cf6" filter="url(#glow)" class="t5" transform="scale(0.8)" />
+  <use href="#s2" x="680" y="25" stroke="#a78bfa" filter="url(#glow)" class="t1" />
+  <use href="#s1" x="750" y="25" fill="#00CED1" filter="url(#glow)" class="t3" transform="scale(0.6)" />
+
+  <!-- Animated line -->
+  <line x1="0" y1="25" x2="800" y2="25" stroke="#6366f1" stroke-width="0.5" opacity="0.2" stroke-dasharray="8,8">
+    <animate attributeName="stroke-dashoffset" from="0" to="32" dur="3s" repeatCount="indefinite" />
+  </line>
+</svg>
