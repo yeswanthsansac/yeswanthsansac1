@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28">
+  <style>
+    .tassel{animation:swing 2s ease-in-out infinite;transform-origin:22px 12px;}
+    @keyframes swing{0%,100%{transform:rotate(0deg);}25%{transform:rotate(8deg);}75%{transform:rotate(-8deg);}}
+  </style>
+  <path d="M4 12l12-6 12 6-12 6z" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M4 12v6l12 6 12-6v-6" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linejoin="round"/>
+  <line x1="16" y1="18" x2="16" y2="28" stroke="#a78bfa" stroke-width="1.5"/>
+  <circle cx="16" cy="28" r="1.5" fill="#a78bfa"/>
+  <line x1="22" y1="12" x2="22" y2="20" stroke="#a78bfa" stroke-width="1.5" class="tassel"/>
+  <circle cx="22" cy="20" r="1.5" fill="#a78bfa" class="tassel"/>
+</svg>

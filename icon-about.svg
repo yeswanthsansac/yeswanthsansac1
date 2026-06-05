@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28">
+  <style>
+    .head{animation:bob 2s ease-in-out infinite;transform-origin:16px 10px;}
+    @keyframes bob{0%,100%{transform:translateY(0);}50%{transform:translateY(-1px);}}
+    .arm{animation:type 1.5s ease-in-out infinite;transform-origin:16px 20px;}
+    @keyframes type{0%,100%{transform:rotate(0deg);}25%{transform:rotate(-3deg);}75%{transform:rotate(3deg);}}
+    .dot{animation:blink 2s step-end infinite;}
+    @keyframes blink{0%,100%{opacity:1;}50%{opacity:0;}}
+  </style>
+  <circle cx="16" cy="9" r="4" fill="none" stroke="#a78bfa" stroke-width="1.8" class="head"/>
+  <path d="M10 28v-6q0-3 3-3h6q3 0 3 3v6" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M7 18l3 3 3-3" fill="none" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="arm"/>
+  <circle cx="24" cy="16" r="1" fill="#a78bfa" class="dot"/>
+</svg>

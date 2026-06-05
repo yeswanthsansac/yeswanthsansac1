@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28">
+  <style>
+    .rocket{animation:launch 2s ease-in-out infinite;}
+    @keyframes launch{0%,100%{transform:translateY(0);}50%{transform:translateY(-2px);}}
+    .flame{animation:flicker 0.8s ease-in-out infinite alternate;transform-origin:16px 26px;}
+    @keyframes flicker{0%{transform:scaleY(1);}100%{transform:scaleY(1.4);}}
+  </style>
+  <path d="M16 4l-3 12h6z" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linejoin="round" class="rocket"/>
+  <circle cx="16" cy="12" r="1.5" fill="#a78bfa" class="rocket"/>
+  <path d="M13 16l-2 6h2v4h6v-4h2l-2-6" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linejoin="round" class="rocket"/>
+  <path d="M15 22v4m2-4v4" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round" class="flame"/>
+</svg>

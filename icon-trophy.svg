@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28">
+  <style>
+    .shine{animation:flash 2s ease-in-out infinite;}
+    @keyframes flash{0%,100%{opacity:1;}50%{opacity:0.3;}}
+  </style>
+  <path d="M8 6h16v3a5 5 0 0 1-5 5h-6a5 5 0 0 1-5-5z" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M8 6H6a2 2 0 0 0 2 3m18-3h2a2 2 0 0 1-2 3" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M14 14v3a2 2 0 0 0 4 0v-3" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
+  <path d="M13 22h6v4h-6z" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M11 26h10" stroke="#a78bfa" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M16 10l1 1.5 1.5-.5-1 1.5.5 1.5-1.5-.5-1.5.5.5-1.5-1-1.5 1.5.5z" fill="#a78bfa" class="shine"/>
+</svg>

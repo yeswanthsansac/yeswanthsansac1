@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="28" height="28">
+  <style>
+    .bulb{animation:glow 2s ease-in-out infinite alternate;}
+    @keyframes glow{0%{opacity:0.6;transform:scale(0.95);}100%{opacity:1;transform:scale(1.05);}}
+    .ray{animation:ray 1.5s ease-in-out infinite alternate;}
+    @keyframes ray{0%{opacity:0.3;}100%{opacity:1;}}
+  </style>
+  <path d="M16 4a7 7 0 0 0-7 7c0 3 2 5 2 7v2h10v-2c0-2 2-4 2-7a7 7 0 0 0-7-7z" fill="none" stroke="#a78bfa" stroke-width="1.8" stroke-linejoin="round" class="bulb"/>
+  <path d="M12 20v2a4 4 0 0 0 8 0v-2" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
+  <line x1="14" y1="24" x2="14" y2="26" stroke="#a78bfa" stroke-width="1.5"/>
+  <line x1="18" y1="24" x2="18" y2="26" stroke="#a78bfa" stroke-width="1.5"/>
+  <line x1="16" y1="2" x2="16" y2="0" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round" class="ray"/>
+  <line x1="8" y1="6" x2="6" y2="4" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round" class="ray"/>
+  <line x1="24" y1="6" x2="26" y2="4" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round" class="ray"/>
+</svg>
