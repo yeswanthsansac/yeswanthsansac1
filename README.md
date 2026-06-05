@@ -49,11 +49,16 @@
   <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
 </div>
 <!-- ABOUT ME SECTION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="👨‍💻" width="30" /> About Me
-yaml
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="👨‍💻" width="30" /> 
+
+About Me
+
 name: Yeswanth P
+
 location: Coimbatore, Tamil Nadu, India
+
 role: Cloud Support & Infrastructure Engineer
+
 education:
   - M.Sc. Computer Science (2024 - 2026)
   - B.Sc. Information Technology (2021 - 2024)
