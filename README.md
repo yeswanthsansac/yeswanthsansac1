@@ -1,26 +1,33 @@
 <!-- 
   ╔═══════════════════════════════════════════════════════════════╗
-  ║  Special Repository: yeswanthsansac/yeswanthsansac           ║
-  ║  Sparkle Animations Added ✨                                 ║
-  ║  1. sparkle-banner.svg  → Animated header banner             ║
-  ║  2. twinkling-divider.svg → Section dividers                 ║
+  ║  yeswanthsansac/yeswanthsansac — Special Repository           ║
+  ║  3D Sparkle Banner + Animated SVG Icons (No PNGs)               ║
+  ║  No workflow. No JavaScript. Just commit & push.              ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
-<!-- SPARKLE BANNER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- 3D SPARKLE BANNER                                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/sparkle-banner.svg" width="100%" alt="Sparkle Banner" />
+  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/3d-sparkle-banner.svg" width="100%" alt="3D Sparkle Animation" />
 </div>
-<!-- HEADER BANNER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- WAVING HEADER                                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=220&section=header&text=Yeswanth%20P&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Infrastructure&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=200&section=header&text=Yeswanth%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20%7C%20DevOps%20%7C%20Infrastructure&descSize=16&descAlignY=60" />
 </div>
-<!-- TYPING ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TYPING ANIMATION                                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <a href="https://github.com/yeswanthsansac">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AWS+Certified+Cloud+Practitioner;Cloud+Support+%7C+Infrastructure+Engineer;Linux+%7C+Networking+%7C+Automation;Building+Resilient+Cloud+Solutions" alt="Typing SVG" />
   </a>
 </div>
-<!-- PROFILE VIEWS & BADGES -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- BADGES                                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yeswanthsansac&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
   &nbsp;
@@ -30,7 +37,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Coimbatore,%20India-10b981?style=flat-square" alt="Location" />
 </div>
-<!-- SOCIAL LINKS -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- SOCIAL LINKS (keep as shields — not SVG icons)                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <a href="https://linkedin.com/in/yeswanth-p-4b216a206" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -44,44 +53,47 @@
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </div>
-<!-- SPARKLE DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
-</div>
-<!-- ABOUT ME SECTION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="👨‍💻" width="30" /> 
-
-About Me
-
-name: Yeswanth P
-
-location: Coimbatore, Tamil Nadu, India
-
-role: Cloud Support & Infrastructure Engineer
-
-education:
-  - M.Sc. Computer Science (2024 - 2026)
-  - B.Sc. Information Technology (2021 - 2024)
-
-certifications:
-  - AWS Certified Cloud Practitioner & Technical Essentials
-  - Corporate Level Django Framework Training (with Distinction)
-  - Python, AI & Machine Learning (Coursera & Microsoft)
-
-focus_areas:
-  - Cloud Infrastructure Operations
-  - System Monitoring & Incident Management
-  - Linux Administration & Network Configuration
-  - Automation & Technical Documentation
-
-current_status: "Seeking Cloud Support roles to leverage AWS, Linux, and networking expertise"
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" alt="☁️" width="20" /> Mission: Deliver reliable infrastructure operations, proactive system monitoring, and exceptional technical support.
-<!-- SPARKLE DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
-</div>
-<!-- TECH STACK SECTION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="28" /> Technical Arsenal
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME — TABLE FORMAT                                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/icon-about.svg" width="28" alt="About" /> About Me
+Personal Information
+Table
+Field	Details
+Name	Yeswanth P
+Location	Coimbatore, Tamil Nadu, India
+Role	Cloud Support & Infrastructure Engineer
+Current Status	Seeking Cloud Support roles to leverage AWS, Linux, and networking expertise
+Education
+Table
+Degree	Institution	Duration
+M.Sc. Computer Science	Sankara College of Science and Commerce	Jul 2024 – May 2026
+B.Sc. Information Technology	Sankara College of Science and Commerce	Jul 2021 – Jun 2024
+Certifications
+Table
+Certification	Provider	Year
+AWS Certified Cloud Practitioner & Technical Essentials	Amazon Web Services	2026
+Corporate Level Django Framework Training (with Distinction)	Postulate	2023–2024
+3-Year Employability & Life Skills Programme	EIDOS	2023
+Python Programming, AI & Machine Learning	Coursera & Microsoft	2025
+Cyber Security Workshops & Next-Gen Data Science & AI	ATAL FDP	—
+Focus Areas
+Table
+Area	Description
+☁️ Cloud Infrastructure	AWS EC2, S3, IAM, VPC operations & architecture
+🖥️ System Monitoring	Incident management, proactive alerting, CloudWatch
+🐧 Linux Administration	Ubuntu, shell scripting, system configuration
+🌐 Networking	TCP/IP, DNS, DHCP, subnetting, routing, VLAN
+🤖 Automation	Bash, PowerShell, Python scripting for operational tasks
+📝 Documentation	Technical runbooks, SOPs, knowledge base articles
+<br/>
+<img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/icon-cloud.svg" width="20" alt="Cloud" /> Mission: Deliver reliable infrastructure operations, proactive system monitoring, and exceptional technical support.
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TECHNICAL ARSENAL                                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/icon-gear.svg" width="28" alt="Tech" /> Technical Arsenal
 <!-- CLOUD & OS -->
 <details open>
 <summary><b>☁️ Cloud & Operating Systems</b></summary>
@@ -130,12 +142,11 @@ current_status: "Seeking Cloud Support roles to leverage AWS, Linux, and network
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
 </p>
 </details>
-<!-- SPARKLE DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
-</div>
-<!-- FEATURED PROJECTS -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="28" /> Featured Projects
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS                                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/icon-rocket.svg" width="28" alt="Projects" /> Featured Projects
 <table>
   <tr>
     <td width="50%">
@@ -176,39 +187,11 @@ current_status: "Seeking Cloud Support roles to leverage AWS, Linux, and network
     </td>
   </tr>
 </table>
-<!-- SPARKLE DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
-</div>
-<!-- CERTIFICATIONS -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="📜" width="28" /> Certifications & Training
-Table
-Certification	Provider	Year
-AWS Certified Cloud Practitioner & Technical Essentials	Amazon Web Services	2026
-Corporate Level Django Framework Training (with Distinction)	Postulate	2023-2024
-3-Year Employability & Life Skills Programme	EIDOS	2023
-Python Programming, AI & Machine Learning	Coursera & Microsoft	2025
-Cyber Security Workshops & Next-Gen Data Science & AI	ATAL FDP	--
-<!-- SPARKLE DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
-</div>
-<!-- EDUCATION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="28" /> Education
-plain
-📍 Sankara College of Science and Commerce, Coimbatore
-
-    ┌─────────────────────────────────────────────────────────────┐
-    │  🎓 M.Sc. in Computer Science    │    Jul 2024 – May 2026   │
-    ├─────────────────────────────────────────────────────────────┤
-    │  🎓 B.Sc. in Information Technology  │  Jul 2021 – Jun 2024 │
-    └─────────────────────────────────────────────────────────────┘
-<!-- SPARKLE DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
-</div>
-<!-- ACHIEVEMENTS -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="28" /> Extra-Curricular & Achievements
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- EXTRA-CURRICULAR & ACHIEVEMENTS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/icon-trophy.svg" width="28" alt="Achievements" /> Extra-Curricular & Achievements
 <table>
   <tr>
     <td>
@@ -231,22 +214,23 @@ plain
     </td>
   </tr>
 </table>
-<!-- SPARKLE DIVIDER -->
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- GITHUB ANALYTICS                                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/icon-chart.svg" width="28" alt="Analytics" /> GitHub Analytics
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
-</div>
-<!-- GITHUB STATS -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="28" /> GitHub Analytics
-<div align="center">
-  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsansac&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=FF9900&currStreakLabel=6366f1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="📅" width="28" /> Contribution Activity
+<br/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeswanthsansac&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=FF9900&area=true" alt="Contribution Graph" />
 </div>
-<!-- SNAKE CONTRIBUTION ANIMATION -->
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE                                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/icon-cal.svg" width="28" alt="Calendar" /> Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/output/github-contribution-grid-snake-dark.svg" />
@@ -254,21 +238,19 @@ plain
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-<!-- SPARKLE DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
-</div>
-<!-- QUOTE SECTION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="28" /> Philosophy
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- PHILOSOPHY                                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/icon-bulb.svg" width="28" alt="Philosophy" /> Philosophy
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Infrastructure+is+the+backbone+of+every+great+product.&author=Yeswanth+P" alt="Quote" />
 </div>
-<!-- SPARKLE DIVIDER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/twinkling-divider.svg" width="100%" alt="Twinkling Divider" />
-</div>
-<!-- CONNECT SECTION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="🤝" width="28" /> Let's Connect
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- LET'S CONNECT                                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/yeswanthsansac/yeswanthsansac/main/icon-handshake.svg" width="28" alt="Connect" /> Let's Connect
 <div align="center">
   <p><i>I'm actively seeking <strong>Cloud Support</strong> and <strong>Infrastructure</strong> opportunities.</i></p>
   <p><i>Open to collaborating on cloud, DevOps, and automation projects!</i></p>
@@ -280,21 +262,30 @@ plain
     <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-<!-- FOOTER BANNER -->
+<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOOTER                                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=120&section=footer" />
 </div>
 <!-- 
 ═══════════════════════════════════════════════════════════════
-  ✨ Sparkle Animation Setup (No Workflow Required!)
+  FILE MANIFEST (commit all to repo root)
+  ─────────────────────────────────────────────────────────────
+  1. 3d-sparkle-banner.svg   → 3D rotating sparkle header
+  2. icon-about.svg          → Animated technologist (About Me)
+  3. icon-cloud.svg          → Animated cloud (Mission)
+  4. icon-gear.svg           → Animated spinning gear (Tech)
+  5. icon-rocket.svg         → Animated rocket (Projects)
+  6. icon-cert.svg           → Animated certificate (if needed)
+  7. icon-edu.svg            → Animated graduation cap (if needed)
+  8. icon-trophy.svg         → Animated trophy (Achievements)
+  9. icon-chart.svg          → Animated bars (Analytics)
+  10. icon-cal.svg           → Animated calendar (Contributions)
+  11. icon-bulb.svg          → Animated lightbulb (Philosophy)
+  12. icon-handshake.svg     → Animated handshake (Connect)
 
-  Files to add to your repo root:
-  1. sparkle-banner.svg    → Animated twinkling header
-  2. twinkling-divider.svg → Animated section dividers
-
-  These SVGs contain embedded CSS animations that auto-play
-  in GitHub READMEs when referenced via raw.githubusercontent.com
-
-  No JavaScript. No GitHub Actions. Just commit & push.
+  No workflow. No JavaScript. All CSS animations inside SVG.
 ═══════════════════════════════════════════════════════════════
 -->
